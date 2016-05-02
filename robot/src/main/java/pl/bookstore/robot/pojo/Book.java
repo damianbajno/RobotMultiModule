@@ -1,5 +1,6 @@
 package pl.bookstore.robot.pojo;
 
+
 import javax.persistence.*;
 import java.util.Date;
 
